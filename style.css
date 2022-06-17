@@ -13,6 +13,9 @@ body{
     color: hsl(246, 25%, 77%);
     font-family: 'Poppins', sans-serif;
 }
+.intro{
+    color: white;
+}
 main{
     display: flex;
     width: 70%;    
